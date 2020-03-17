@@ -1,0 +1,4 @@
+baseURL = "https://hugo-ipfs-blog.textile.cafe/"
+languageCode = "en-us"
+title = "Hugo IPFS Blog on Textile"
+theme = "ananke"
