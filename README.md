@@ -1,4 +1,4 @@
-Hugo Blog published with IPFS
+Hugo Blog published with IPFS (PR)
 ===============================
 
 This repo provides an example setup to publish your [Hugo](https://gohugo.io/) project on IPFS and mirror those changes over a freely provided or custom domain name.
